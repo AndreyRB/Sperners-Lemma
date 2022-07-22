@@ -1,0 +1,31 @@
+D:\Учеба\учеба\2 курс\Дискретка Пушкарев\WpfApp1\bin\Debug\WpfApp1.exe.config
+D:\Учеба\учеба\2 курс\Дискретка Пушкарев\WpfApp1\bin\Debug\WpfApp1.exe
+D:\Учеба\учеба\2 курс\Дискретка Пушкарев\WpfApp1\bin\Debug\WpfApp1.pdb
+D:\Учеба\учеба\2 курс\Дискретка Пушкарев\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+D:\Учеба\учеба\2 курс\Дискретка Пушкарев\WpfApp1\obj\Debug\MainWindow.g.cs
+D:\Учеба\учеба\2 курс\Дискретка Пушкарев\WpfApp1\obj\Debug\App.g.cs
+D:\Учеба\учеба\2 курс\Дискретка Пушкарев\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+D:\Учеба\учеба\2 курс\Дискретка Пушкарев\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+D:\Учеба\учеба\2 курс\Дискретка Пушкарев\WpfApp1\obj\Debug\MainWindow.baml
+D:\Учеба\учеба\2 курс\Дискретка Пушкарев\WpfApp1\obj\Debug\WpfApp1.g.resources
+D:\Учеба\учеба\2 курс\Дискретка Пушкарев\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+D:\Учеба\учеба\2 курс\Дискретка Пушкарев\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+D:\Учеба\учеба\2 курс\Дискретка Пушкарев\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+D:\Учеба\учеба\2 курс\Дискретка Пушкарев\WpfApp1\obj\Debug\WpfApp1.exe
+D:\Учеба\учеба\2 курс\Дискретка Пушкарев\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\andre\Desktop\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\andre\Desktop\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\andre\Desktop\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\andre\Desktop\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\andre\Desktop\WpfApp1\obj\Debug\WpfApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\andre\Desktop\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\andre\Desktop\WpfApp1\obj\Debug\App.g.cs
+C:\Users\andre\Desktop\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\andre\Desktop\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\andre\Desktop\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\andre\Desktop\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\andre\Desktop\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\andre\Desktop\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\andre\Desktop\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\andre\Desktop\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\andre\Desktop\WpfApp1\obj\Debug\WpfApp1.pdb

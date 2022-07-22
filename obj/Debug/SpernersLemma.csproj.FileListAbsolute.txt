@@ -1,0 +1,16 @@
+C:\Users\andre\Desktop\Sperner's lemma\bin\Debug\WpfApp1.exe.config
+C:\Users\andre\Desktop\Sperner's lemma\bin\Debug\WpfApp1.exe
+C:\Users\andre\Desktop\Sperner's lemma\bin\Debug\WpfApp1.pdb
+C:\Users\andre\Desktop\Sperner's lemma\obj\Debug\SpernersLemma.csproj.AssemblyReference.cache
+C:\Users\andre\Desktop\Sperner's lemma\obj\Debug\SpernersLemma.csproj.SuggestedBindingRedirects.cache
+C:\Users\andre\Desktop\Sperner's lemma\obj\Debug\MainWindow.baml
+C:\Users\andre\Desktop\Sperner's lemma\obj\Debug\MainWindow.g.cs
+C:\Users\andre\Desktop\Sperner's lemma\obj\Debug\App.g.cs
+C:\Users\andre\Desktop\Sperner's lemma\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\andre\Desktop\Sperner's lemma\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\andre\Desktop\Sperner's lemma\obj\Debug\WpfApp1.g.resources
+C:\Users\andre\Desktop\Sperner's lemma\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\andre\Desktop\Sperner's lemma\obj\Debug\SpernersLemma.csproj.GenerateResource.cache
+C:\Users\andre\Desktop\Sperner's lemma\obj\Debug\SpernersLemma.csproj.CoreCompileInputs.cache
+C:\Users\andre\Desktop\Sperner's lemma\obj\Debug\WpfApp1.exe
+C:\Users\andre\Desktop\Sperner's lemma\obj\Debug\WpfApp1.pdb
